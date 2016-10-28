@@ -1,0 +1,6 @@
+c:\users\dianag\documents\visual studio 2013\Projects\HelloWorld_Day1\HelloWorld_Day1\bin\Debug\HelloWorld_Day1.exe.config
+c:\users\dianag\documents\visual studio 2013\Projects\HelloWorld_Day1\HelloWorld_Day1\bin\Debug\HelloWorld_Day1.exe
+c:\users\dianag\documents\visual studio 2013\Projects\HelloWorld_Day1\HelloWorld_Day1\bin\Debug\HelloWorld_Day1.pdb
+c:\users\dianag\documents\visual studio 2013\Projects\HelloWorld_Day1\HelloWorld_Day1\obj\Debug\HelloWorld_Day1.csprojResolveAssemblyReference.cache
+c:\users\dianag\documents\visual studio 2013\Projects\HelloWorld_Day1\HelloWorld_Day1\obj\Debug\HelloWorld_Day1.exe
+c:\users\dianag\documents\visual studio 2013\Projects\HelloWorld_Day1\HelloWorld_Day1\obj\Debug\HelloWorld_Day1.pdb
